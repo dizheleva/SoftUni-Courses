@@ -1,0 +1,13 @@
+C:\Users\user\source\repos\dizheleva\CSharp-Advanced\ExamPractice\DatingApp\DatingApp\bin\Debug\netcoreapp3.1\DatingApp.exe
+C:\Users\user\source\repos\dizheleva\CSharp-Advanced\ExamPractice\DatingApp\DatingApp\bin\Debug\netcoreapp3.1\DatingApp.deps.json
+C:\Users\user\source\repos\dizheleva\CSharp-Advanced\ExamPractice\DatingApp\DatingApp\bin\Debug\netcoreapp3.1\DatingApp.runtimeconfig.json
+C:\Users\user\source\repos\dizheleva\CSharp-Advanced\ExamPractice\DatingApp\DatingApp\bin\Debug\netcoreapp3.1\DatingApp.runtimeconfig.dev.json
+C:\Users\user\source\repos\dizheleva\CSharp-Advanced\ExamPractice\DatingApp\DatingApp\bin\Debug\netcoreapp3.1\DatingApp.dll
+C:\Users\user\source\repos\dizheleva\CSharp-Advanced\ExamPractice\DatingApp\DatingApp\bin\Debug\netcoreapp3.1\DatingApp.pdb
+C:\Users\user\source\repos\dizheleva\CSharp-Advanced\ExamPractice\DatingApp\DatingApp\obj\Debug\netcoreapp3.1\DatingApp.csprojAssemblyReference.cache
+C:\Users\user\source\repos\dizheleva\CSharp-Advanced\ExamPractice\DatingApp\DatingApp\obj\Debug\netcoreapp3.1\DatingApp.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\dizheleva\CSharp-Advanced\ExamPractice\DatingApp\DatingApp\obj\Debug\netcoreapp3.1\DatingApp.AssemblyInfo.cs
+C:\Users\user\source\repos\dizheleva\CSharp-Advanced\ExamPractice\DatingApp\DatingApp\obj\Debug\netcoreapp3.1\DatingApp.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\dizheleva\CSharp-Advanced\ExamPractice\DatingApp\DatingApp\obj\Debug\netcoreapp3.1\DatingApp.dll
+C:\Users\user\source\repos\dizheleva\CSharp-Advanced\ExamPractice\DatingApp\DatingApp\obj\Debug\netcoreapp3.1\DatingApp.pdb
+C:\Users\user\source\repos\dizheleva\CSharp-Advanced\ExamPractice\DatingApp\DatingApp\obj\Debug\netcoreapp3.1\DatingApp.genruntimeconfig.cache

@@ -1,0 +1,11 @@
+C:\Users\user\source\repos\textProcessing\textProcessing\bin\Debug\netcoreapp3.1\textProcessing.exe
+C:\Users\user\source\repos\textProcessing\textProcessing\bin\Debug\netcoreapp3.1\textProcessing.deps.json
+C:\Users\user\source\repos\textProcessing\textProcessing\bin\Debug\netcoreapp3.1\textProcessing.runtimeconfig.json
+C:\Users\user\source\repos\textProcessing\textProcessing\bin\Debug\netcoreapp3.1\textProcessing.runtimeconfig.dev.json
+C:\Users\user\source\repos\textProcessing\textProcessing\bin\Debug\netcoreapp3.1\textProcessing.dll
+C:\Users\user\source\repos\textProcessing\textProcessing\bin\Debug\netcoreapp3.1\textProcessing.pdb
+C:\Users\user\source\repos\textProcessing\textProcessing\obj\Debug\netcoreapp3.1\textProcessing.csprojAssemblyReference.cache
+C:\Users\user\source\repos\textProcessing\textProcessing\obj\Debug\netcoreapp3.1\textProcessing.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\textProcessing\textProcessing\obj\Debug\netcoreapp3.1\textProcessing.AssemblyInfo.cs
+C:\Users\user\source\repos\textProcessing\textProcessing\obj\Debug\netcoreapp3.1\textProcessing.dll
+C:\Users\user\source\repos\textProcessing\textProcessing\obj\Debug\netcoreapp3.1\textProcessing.pdb

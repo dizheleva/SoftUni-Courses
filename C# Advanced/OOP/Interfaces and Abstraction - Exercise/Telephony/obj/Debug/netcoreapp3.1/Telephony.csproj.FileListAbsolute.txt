@@ -1,0 +1,13 @@
+C:\Users\user\source\repos\dizheleva\OOP\Interfaces and Abstraction - Exercise\Telephony\bin\Debug\netcoreapp3.1\Telephony.exe
+C:\Users\user\source\repos\dizheleva\OOP\Interfaces and Abstraction - Exercise\Telephony\bin\Debug\netcoreapp3.1\Telephony.deps.json
+C:\Users\user\source\repos\dizheleva\OOP\Interfaces and Abstraction - Exercise\Telephony\bin\Debug\netcoreapp3.1\Telephony.runtimeconfig.json
+C:\Users\user\source\repos\dizheleva\OOP\Interfaces and Abstraction - Exercise\Telephony\bin\Debug\netcoreapp3.1\Telephony.runtimeconfig.dev.json
+C:\Users\user\source\repos\dizheleva\OOP\Interfaces and Abstraction - Exercise\Telephony\bin\Debug\netcoreapp3.1\Telephony.dll
+C:\Users\user\source\repos\dizheleva\OOP\Interfaces and Abstraction - Exercise\Telephony\bin\Debug\netcoreapp3.1\Telephony.pdb
+C:\Users\user\source\repos\dizheleva\OOP\Interfaces and Abstraction - Exercise\Telephony\obj\Debug\netcoreapp3.1\Telephony.csprojAssemblyReference.cache
+C:\Users\user\source\repos\dizheleva\OOP\Interfaces and Abstraction - Exercise\Telephony\obj\Debug\netcoreapp3.1\Telephony.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\dizheleva\OOP\Interfaces and Abstraction - Exercise\Telephony\obj\Debug\netcoreapp3.1\Telephony.AssemblyInfo.cs
+C:\Users\user\source\repos\dizheleva\OOP\Interfaces and Abstraction - Exercise\Telephony\obj\Debug\netcoreapp3.1\Telephony.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\dizheleva\OOP\Interfaces and Abstraction - Exercise\Telephony\obj\Debug\netcoreapp3.1\Telephony.dll
+C:\Users\user\source\repos\dizheleva\OOP\Interfaces and Abstraction - Exercise\Telephony\obj\Debug\netcoreapp3.1\Telephony.pdb
+C:\Users\user\source\repos\dizheleva\OOP\Interfaces and Abstraction - Exercise\Telephony\obj\Debug\netcoreapp3.1\Telephony.genruntimeconfig.cache

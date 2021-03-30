@@ -1,0 +1,12 @@
+C:\Users\user\source\repos\dizheleva\CSharp-Advanced\ExamPractice\Rabbits\bin\Debug\netcoreapp2.1\Rabbits.deps.json
+C:\Users\user\source\repos\dizheleva\CSharp-Advanced\ExamPractice\Rabbits\bin\Debug\netcoreapp2.1\Rabbits.runtimeconfig.json
+C:\Users\user\source\repos\dizheleva\CSharp-Advanced\ExamPractice\Rabbits\bin\Debug\netcoreapp2.1\Rabbits.runtimeconfig.dev.json
+C:\Users\user\source\repos\dizheleva\CSharp-Advanced\ExamPractice\Rabbits\bin\Debug\netcoreapp2.1\Rabbits.dll
+C:\Users\user\source\repos\dizheleva\CSharp-Advanced\ExamPractice\Rabbits\bin\Debug\netcoreapp2.1\Rabbits.pdb
+C:\Users\user\source\repos\dizheleva\CSharp-Advanced\ExamPractice\Rabbits\obj\Debug\netcoreapp2.1\Rabbits.csprojAssemblyReference.cache
+C:\Users\user\source\repos\dizheleva\CSharp-Advanced\ExamPractice\Rabbits\obj\Debug\netcoreapp2.1\Rabbits.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\dizheleva\CSharp-Advanced\ExamPractice\Rabbits\obj\Debug\netcoreapp2.1\Rabbits.AssemblyInfo.cs
+C:\Users\user\source\repos\dizheleva\CSharp-Advanced\ExamPractice\Rabbits\obj\Debug\netcoreapp2.1\Rabbits.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\dizheleva\CSharp-Advanced\ExamPractice\Rabbits\obj\Debug\netcoreapp2.1\Rabbits.dll
+C:\Users\user\source\repos\dizheleva\CSharp-Advanced\ExamPractice\Rabbits\obj\Debug\netcoreapp2.1\Rabbits.pdb
+C:\Users\user\source\repos\dizheleva\CSharp-Advanced\ExamPractice\Rabbits\obj\Debug\netcoreapp2.1\Rabbits.genruntimeconfig.cache

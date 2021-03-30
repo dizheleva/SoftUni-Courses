@@ -1,0 +1,13 @@
+C:\Users\user\source\repos\dizheleva\OOP\ExamPrep\C# OOP Retake Exam - 16 Apr 2020\03. Unit Tests_Skeleton\Computers\bin\Debug\netcoreapp3.0\Computers.exe
+C:\Users\user\source\repos\dizheleva\OOP\ExamPrep\C# OOP Retake Exam - 16 Apr 2020\03. Unit Tests_Skeleton\Computers\bin\Debug\netcoreapp3.0\Computers.deps.json
+C:\Users\user\source\repos\dizheleva\OOP\ExamPrep\C# OOP Retake Exam - 16 Apr 2020\03. Unit Tests_Skeleton\Computers\bin\Debug\netcoreapp3.0\Computers.runtimeconfig.json
+C:\Users\user\source\repos\dizheleva\OOP\ExamPrep\C# OOP Retake Exam - 16 Apr 2020\03. Unit Tests_Skeleton\Computers\bin\Debug\netcoreapp3.0\Computers.runtimeconfig.dev.json
+C:\Users\user\source\repos\dizheleva\OOP\ExamPrep\C# OOP Retake Exam - 16 Apr 2020\03. Unit Tests_Skeleton\Computers\bin\Debug\netcoreapp3.0\Computers.dll
+C:\Users\user\source\repos\dizheleva\OOP\ExamPrep\C# OOP Retake Exam - 16 Apr 2020\03. Unit Tests_Skeleton\Computers\bin\Debug\netcoreapp3.0\Computers.pdb
+C:\Users\user\source\repos\dizheleva\OOP\ExamPrep\C# OOP Retake Exam - 16 Apr 2020\03. Unit Tests_Skeleton\Computers\obj\Debug\netcoreapp3.0\Computers.csprojAssemblyReference.cache
+C:\Users\user\source\repos\dizheleva\OOP\ExamPrep\C# OOP Retake Exam - 16 Apr 2020\03. Unit Tests_Skeleton\Computers\obj\Debug\netcoreapp3.0\Computers.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\dizheleva\OOP\ExamPrep\C# OOP Retake Exam - 16 Apr 2020\03. Unit Tests_Skeleton\Computers\obj\Debug\netcoreapp3.0\Computers.AssemblyInfo.cs
+C:\Users\user\source\repos\dizheleva\OOP\ExamPrep\C# OOP Retake Exam - 16 Apr 2020\03. Unit Tests_Skeleton\Computers\obj\Debug\netcoreapp3.0\Computers.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\dizheleva\OOP\ExamPrep\C# OOP Retake Exam - 16 Apr 2020\03. Unit Tests_Skeleton\Computers\obj\Debug\netcoreapp3.0\Computers.dll
+C:\Users\user\source\repos\dizheleva\OOP\ExamPrep\C# OOP Retake Exam - 16 Apr 2020\03. Unit Tests_Skeleton\Computers\obj\Debug\netcoreapp3.0\Computers.pdb
+C:\Users\user\source\repos\dizheleva\OOP\ExamPrep\C# OOP Retake Exam - 16 Apr 2020\03. Unit Tests_Skeleton\Computers\obj\Debug\netcoreapp3.0\Computers.genruntimeconfig.cache

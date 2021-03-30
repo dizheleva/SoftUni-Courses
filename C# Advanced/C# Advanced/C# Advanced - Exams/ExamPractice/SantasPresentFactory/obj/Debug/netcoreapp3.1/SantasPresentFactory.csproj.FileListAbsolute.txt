@@ -1,0 +1,13 @@
+C:\Users\user\source\repos\dizheleva\CSharp-Advanced\ExamPractice\SantasPresentFactory\bin\Debug\netcoreapp3.1\SantasPresentFactory.exe
+C:\Users\user\source\repos\dizheleva\CSharp-Advanced\ExamPractice\SantasPresentFactory\bin\Debug\netcoreapp3.1\SantasPresentFactory.deps.json
+C:\Users\user\source\repos\dizheleva\CSharp-Advanced\ExamPractice\SantasPresentFactory\bin\Debug\netcoreapp3.1\SantasPresentFactory.runtimeconfig.json
+C:\Users\user\source\repos\dizheleva\CSharp-Advanced\ExamPractice\SantasPresentFactory\bin\Debug\netcoreapp3.1\SantasPresentFactory.runtimeconfig.dev.json
+C:\Users\user\source\repos\dizheleva\CSharp-Advanced\ExamPractice\SantasPresentFactory\bin\Debug\netcoreapp3.1\SantasPresentFactory.dll
+C:\Users\user\source\repos\dizheleva\CSharp-Advanced\ExamPractice\SantasPresentFactory\bin\Debug\netcoreapp3.1\SantasPresentFactory.pdb
+C:\Users\user\source\repos\dizheleva\CSharp-Advanced\ExamPractice\SantasPresentFactory\obj\Debug\netcoreapp3.1\SantasPresentFactory.csprojAssemblyReference.cache
+C:\Users\user\source\repos\dizheleva\CSharp-Advanced\ExamPractice\SantasPresentFactory\obj\Debug\netcoreapp3.1\SantasPresentFactory.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\dizheleva\CSharp-Advanced\ExamPractice\SantasPresentFactory\obj\Debug\netcoreapp3.1\SantasPresentFactory.AssemblyInfo.cs
+C:\Users\user\source\repos\dizheleva\CSharp-Advanced\ExamPractice\SantasPresentFactory\obj\Debug\netcoreapp3.1\SantasPresentFactory.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\dizheleva\CSharp-Advanced\ExamPractice\SantasPresentFactory\obj\Debug\netcoreapp3.1\SantasPresentFactory.dll
+C:\Users\user\source\repos\dizheleva\CSharp-Advanced\ExamPractice\SantasPresentFactory\obj\Debug\netcoreapp3.1\SantasPresentFactory.pdb
+C:\Users\user\source\repos\dizheleva\CSharp-Advanced\ExamPractice\SantasPresentFactory\obj\Debug\netcoreapp3.1\SantasPresentFactory.genruntimeconfig.cache

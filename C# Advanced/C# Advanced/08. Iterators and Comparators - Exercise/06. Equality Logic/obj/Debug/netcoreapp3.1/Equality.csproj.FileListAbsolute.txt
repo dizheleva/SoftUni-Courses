@@ -1,0 +1,13 @@
+C:\Users\user\source\repos\dizheleva\CSharp-Advanced\Iterators and Comparators - Exercise\06. Equality Logic\bin\Debug\netcoreapp3.1\Equality.exe
+C:\Users\user\source\repos\dizheleva\CSharp-Advanced\Iterators and Comparators - Exercise\06. Equality Logic\bin\Debug\netcoreapp3.1\Equality.deps.json
+C:\Users\user\source\repos\dizheleva\CSharp-Advanced\Iterators and Comparators - Exercise\06. Equality Logic\bin\Debug\netcoreapp3.1\Equality.runtimeconfig.json
+C:\Users\user\source\repos\dizheleva\CSharp-Advanced\Iterators and Comparators - Exercise\06. Equality Logic\bin\Debug\netcoreapp3.1\Equality.runtimeconfig.dev.json
+C:\Users\user\source\repos\dizheleva\CSharp-Advanced\Iterators and Comparators - Exercise\06. Equality Logic\bin\Debug\netcoreapp3.1\Equality.dll
+C:\Users\user\source\repos\dizheleva\CSharp-Advanced\Iterators and Comparators - Exercise\06. Equality Logic\bin\Debug\netcoreapp3.1\Equality.pdb
+C:\Users\user\source\repos\dizheleva\CSharp-Advanced\Iterators and Comparators - Exercise\06. Equality Logic\obj\Debug\netcoreapp3.1\Equality.csprojAssemblyReference.cache
+C:\Users\user\source\repos\dizheleva\CSharp-Advanced\Iterators and Comparators - Exercise\06. Equality Logic\obj\Debug\netcoreapp3.1\Equality.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\dizheleva\CSharp-Advanced\Iterators and Comparators - Exercise\06. Equality Logic\obj\Debug\netcoreapp3.1\Equality.AssemblyInfo.cs
+C:\Users\user\source\repos\dizheleva\CSharp-Advanced\Iterators and Comparators - Exercise\06. Equality Logic\obj\Debug\netcoreapp3.1\Equality.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\dizheleva\CSharp-Advanced\Iterators and Comparators - Exercise\06. Equality Logic\obj\Debug\netcoreapp3.1\Equality.dll
+C:\Users\user\source\repos\dizheleva\CSharp-Advanced\Iterators and Comparators - Exercise\06. Equality Logic\obj\Debug\netcoreapp3.1\Equality.pdb
+C:\Users\user\source\repos\dizheleva\CSharp-Advanced\Iterators and Comparators - Exercise\06. Equality Logic\obj\Debug\netcoreapp3.1\Equality.genruntimeconfig.cache

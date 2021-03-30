@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Generic Box of Integer", "02. Generic Box of Integer.csproj", "{E8DC3234-5260-44EB-A6F9-4E25B39C99C6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E8DC3234-5260-44EB-A6F9-4E25B39C99C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8DC3234-5260-44EB-A6F9-4E25B39C99C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8DC3234-5260-44EB-A6F9-4E25B39C99C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8DC3234-5260-44EB-A6F9-4E25B39C99C6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B7C0A6B6-C5EE-4261-B921-06F63D325110}
+	EndGlobalSection
+EndGlobal

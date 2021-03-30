@@ -1,0 +1,9 @@
+C:\Users\user\source\repos\dizheleva\OOP\Exam\Retake\03. Unit Tests_Skeleton\UnitTests-Skeleton\TheRace\bin\Debug\netcoreapp3.1\TheRace.deps.json
+C:\Users\user\source\repos\dizheleva\OOP\Exam\Retake\03. Unit Tests_Skeleton\UnitTests-Skeleton\TheRace\bin\Debug\netcoreapp3.1\TheRace.dll
+C:\Users\user\source\repos\dizheleva\OOP\Exam\Retake\03. Unit Tests_Skeleton\UnitTests-Skeleton\TheRace\bin\Debug\netcoreapp3.1\TheRace.pdb
+C:\Users\user\source\repos\dizheleva\OOP\Exam\Retake\03. Unit Tests_Skeleton\UnitTests-Skeleton\TheRace\obj\Debug\netcoreapp3.1\TheRace.csprojAssemblyReference.cache
+C:\Users\user\source\repos\dizheleva\OOP\Exam\Retake\03. Unit Tests_Skeleton\UnitTests-Skeleton\TheRace\obj\Debug\netcoreapp3.1\TheRace.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\dizheleva\OOP\Exam\Retake\03. Unit Tests_Skeleton\UnitTests-Skeleton\TheRace\obj\Debug\netcoreapp3.1\TheRace.AssemblyInfo.cs
+C:\Users\user\source\repos\dizheleva\OOP\Exam\Retake\03. Unit Tests_Skeleton\UnitTests-Skeleton\TheRace\obj\Debug\netcoreapp3.1\TheRace.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\dizheleva\OOP\Exam\Retake\03. Unit Tests_Skeleton\UnitTests-Skeleton\TheRace\obj\Debug\netcoreapp3.1\TheRace.dll
+C:\Users\user\source\repos\dizheleva\OOP\Exam\Retake\03. Unit Tests_Skeleton\UnitTests-Skeleton\TheRace\obj\Debug\netcoreapp3.1\TheRace.pdb

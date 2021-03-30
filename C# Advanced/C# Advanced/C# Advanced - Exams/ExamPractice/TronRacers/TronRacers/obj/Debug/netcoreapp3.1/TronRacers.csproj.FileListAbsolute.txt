@@ -1,0 +1,13 @@
+C:\Users\user\source\repos\dizheleva\CSharp-Advanced\ExamPractice\TronRacers\TronRacers\bin\Debug\netcoreapp3.1\TronRacers.exe
+C:\Users\user\source\repos\dizheleva\CSharp-Advanced\ExamPractice\TronRacers\TronRacers\bin\Debug\netcoreapp3.1\TronRacers.deps.json
+C:\Users\user\source\repos\dizheleva\CSharp-Advanced\ExamPractice\TronRacers\TronRacers\bin\Debug\netcoreapp3.1\TronRacers.runtimeconfig.json
+C:\Users\user\source\repos\dizheleva\CSharp-Advanced\ExamPractice\TronRacers\TronRacers\bin\Debug\netcoreapp3.1\TronRacers.runtimeconfig.dev.json
+C:\Users\user\source\repos\dizheleva\CSharp-Advanced\ExamPractice\TronRacers\TronRacers\bin\Debug\netcoreapp3.1\TronRacers.dll
+C:\Users\user\source\repos\dizheleva\CSharp-Advanced\ExamPractice\TronRacers\TronRacers\bin\Debug\netcoreapp3.1\TronRacers.pdb
+C:\Users\user\source\repos\dizheleva\CSharp-Advanced\ExamPractice\TronRacers\TronRacers\obj\Debug\netcoreapp3.1\TronRacers.csprojAssemblyReference.cache
+C:\Users\user\source\repos\dizheleva\CSharp-Advanced\ExamPractice\TronRacers\TronRacers\obj\Debug\netcoreapp3.1\TronRacers.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\dizheleva\CSharp-Advanced\ExamPractice\TronRacers\TronRacers\obj\Debug\netcoreapp3.1\TronRacers.AssemblyInfo.cs
+C:\Users\user\source\repos\dizheleva\CSharp-Advanced\ExamPractice\TronRacers\TronRacers\obj\Debug\netcoreapp3.1\TronRacers.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\dizheleva\CSharp-Advanced\ExamPractice\TronRacers\TronRacers\obj\Debug\netcoreapp3.1\TronRacers.dll
+C:\Users\user\source\repos\dizheleva\CSharp-Advanced\ExamPractice\TronRacers\TronRacers\obj\Debug\netcoreapp3.1\TronRacers.pdb
+C:\Users\user\source\repos\dizheleva\CSharp-Advanced\ExamPractice\TronRacers\TronRacers\obj\Debug\netcoreapp3.1\TronRacers.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+C:\Users\user\source\repos\dizheleva\CSharp-Advanced\ExamPractice\Heroes\bin\Debug\netcoreapp2.1\Heroes.deps.json
+C:\Users\user\source\repos\dizheleva\CSharp-Advanced\ExamPractice\Heroes\bin\Debug\netcoreapp2.1\Heroes.runtimeconfig.json
+C:\Users\user\source\repos\dizheleva\CSharp-Advanced\ExamPractice\Heroes\bin\Debug\netcoreapp2.1\Heroes.runtimeconfig.dev.json
+C:\Users\user\source\repos\dizheleva\CSharp-Advanced\ExamPractice\Heroes\bin\Debug\netcoreapp2.1\Heroes.dll
+C:\Users\user\source\repos\dizheleva\CSharp-Advanced\ExamPractice\Heroes\bin\Debug\netcoreapp2.1\Heroes.pdb
+C:\Users\user\source\repos\dizheleva\CSharp-Advanced\ExamPractice\Heroes\obj\Debug\netcoreapp2.1\Heroes.csprojAssemblyReference.cache
+C:\Users\user\source\repos\dizheleva\CSharp-Advanced\ExamPractice\Heroes\obj\Debug\netcoreapp2.1\Heroes.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\dizheleva\CSharp-Advanced\ExamPractice\Heroes\obj\Debug\netcoreapp2.1\Heroes.AssemblyInfo.cs
+C:\Users\user\source\repos\dizheleva\CSharp-Advanced\ExamPractice\Heroes\obj\Debug\netcoreapp2.1\Heroes.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\dizheleva\CSharp-Advanced\ExamPractice\Heroes\obj\Debug\netcoreapp2.1\Heroes.dll
+C:\Users\user\source\repos\dizheleva\CSharp-Advanced\ExamPractice\Heroes\obj\Debug\netcoreapp2.1\Heroes.pdb
+C:\Users\user\source\repos\dizheleva\CSharp-Advanced\ExamPractice\Heroes\obj\Debug\netcoreapp2.1\Heroes.genruntimeconfig.cache

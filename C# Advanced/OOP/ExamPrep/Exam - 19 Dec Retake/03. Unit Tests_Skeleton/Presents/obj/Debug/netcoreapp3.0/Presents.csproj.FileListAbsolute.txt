@@ -1,0 +1,13 @@
+C:\Users\user\source\repos\dizheleva\OOP\ExamPrep\Exam - 19 Dec Retake\03. Unit Tests_Skeleton\Presents\bin\Debug\netcoreapp3.0\Presents.exe
+C:\Users\user\source\repos\dizheleva\OOP\ExamPrep\Exam - 19 Dec Retake\03. Unit Tests_Skeleton\Presents\bin\Debug\netcoreapp3.0\Presents.deps.json
+C:\Users\user\source\repos\dizheleva\OOP\ExamPrep\Exam - 19 Dec Retake\03. Unit Tests_Skeleton\Presents\bin\Debug\netcoreapp3.0\Presents.runtimeconfig.json
+C:\Users\user\source\repos\dizheleva\OOP\ExamPrep\Exam - 19 Dec Retake\03. Unit Tests_Skeleton\Presents\bin\Debug\netcoreapp3.0\Presents.runtimeconfig.dev.json
+C:\Users\user\source\repos\dizheleva\OOP\ExamPrep\Exam - 19 Dec Retake\03. Unit Tests_Skeleton\Presents\bin\Debug\netcoreapp3.0\Presents.dll
+C:\Users\user\source\repos\dizheleva\OOP\ExamPrep\Exam - 19 Dec Retake\03. Unit Tests_Skeleton\Presents\bin\Debug\netcoreapp3.0\Presents.pdb
+C:\Users\user\source\repos\dizheleva\OOP\ExamPrep\Exam - 19 Dec Retake\03. Unit Tests_Skeleton\Presents\obj\Debug\netcoreapp3.0\Presents.csprojAssemblyReference.cache
+C:\Users\user\source\repos\dizheleva\OOP\ExamPrep\Exam - 19 Dec Retake\03. Unit Tests_Skeleton\Presents\obj\Debug\netcoreapp3.0\Presents.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\dizheleva\OOP\ExamPrep\Exam - 19 Dec Retake\03. Unit Tests_Skeleton\Presents\obj\Debug\netcoreapp3.0\Presents.AssemblyInfo.cs
+C:\Users\user\source\repos\dizheleva\OOP\ExamPrep\Exam - 19 Dec Retake\03. Unit Tests_Skeleton\Presents\obj\Debug\netcoreapp3.0\Presents.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\dizheleva\OOP\ExamPrep\Exam - 19 Dec Retake\03. Unit Tests_Skeleton\Presents\obj\Debug\netcoreapp3.0\Presents.dll
+C:\Users\user\source\repos\dizheleva\OOP\ExamPrep\Exam - 19 Dec Retake\03. Unit Tests_Skeleton\Presents\obj\Debug\netcoreapp3.0\Presents.pdb
+C:\Users\user\source\repos\dizheleva\OOP\ExamPrep\Exam - 19 Dec Retake\03. Unit Tests_Skeleton\Presents\obj\Debug\netcoreapp3.0\Presents.genruntimeconfig.cache

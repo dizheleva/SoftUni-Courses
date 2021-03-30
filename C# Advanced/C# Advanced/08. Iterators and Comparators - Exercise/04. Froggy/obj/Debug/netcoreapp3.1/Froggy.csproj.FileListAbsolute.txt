@@ -1,0 +1,26 @@
+C:\Users\user\source\repos\dizheleva\CSharp-Advanced\Iterators and Comparators - Exercise\Froggy\bin\Debug\netcoreapp3.1\Froggy.exe
+C:\Users\user\source\repos\dizheleva\CSharp-Advanced\Iterators and Comparators - Exercise\Froggy\bin\Debug\netcoreapp3.1\Froggy.deps.json
+C:\Users\user\source\repos\dizheleva\CSharp-Advanced\Iterators and Comparators - Exercise\Froggy\bin\Debug\netcoreapp3.1\Froggy.runtimeconfig.json
+C:\Users\user\source\repos\dizheleva\CSharp-Advanced\Iterators and Comparators - Exercise\Froggy\bin\Debug\netcoreapp3.1\Froggy.runtimeconfig.dev.json
+C:\Users\user\source\repos\dizheleva\CSharp-Advanced\Iterators and Comparators - Exercise\Froggy\bin\Debug\netcoreapp3.1\Froggy.dll
+C:\Users\user\source\repos\dizheleva\CSharp-Advanced\Iterators and Comparators - Exercise\Froggy\bin\Debug\netcoreapp3.1\Froggy.pdb
+C:\Users\user\source\repos\dizheleva\CSharp-Advanced\Iterators and Comparators - Exercise\Froggy\obj\Debug\netcoreapp3.1\Froggy.csprojAssemblyReference.cache
+C:\Users\user\source\repos\dizheleva\CSharp-Advanced\Iterators and Comparators - Exercise\Froggy\obj\Debug\netcoreapp3.1\Froggy.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\dizheleva\CSharp-Advanced\Iterators and Comparators - Exercise\Froggy\obj\Debug\netcoreapp3.1\Froggy.AssemblyInfo.cs
+C:\Users\user\source\repos\dizheleva\CSharp-Advanced\Iterators and Comparators - Exercise\Froggy\obj\Debug\netcoreapp3.1\Froggy.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\dizheleva\CSharp-Advanced\Iterators and Comparators - Exercise\Froggy\obj\Debug\netcoreapp3.1\Froggy.dll
+C:\Users\user\source\repos\dizheleva\CSharp-Advanced\Iterators and Comparators - Exercise\Froggy\obj\Debug\netcoreapp3.1\Froggy.pdb
+C:\Users\user\source\repos\dizheleva\CSharp-Advanced\Iterators and Comparators - Exercise\Froggy\obj\Debug\netcoreapp3.1\Froggy.genruntimeconfig.cache
+C:\Users\user\source\repos\dizheleva\CSharp-Advanced\Iterators and Comparators - Exercise\04. Froggy\bin\Debug\netcoreapp3.1\Froggy.exe
+C:\Users\user\source\repos\dizheleva\CSharp-Advanced\Iterators and Comparators - Exercise\04. Froggy\bin\Debug\netcoreapp3.1\Froggy.deps.json
+C:\Users\user\source\repos\dizheleva\CSharp-Advanced\Iterators and Comparators - Exercise\04. Froggy\bin\Debug\netcoreapp3.1\Froggy.runtimeconfig.json
+C:\Users\user\source\repos\dizheleva\CSharp-Advanced\Iterators and Comparators - Exercise\04. Froggy\bin\Debug\netcoreapp3.1\Froggy.runtimeconfig.dev.json
+C:\Users\user\source\repos\dizheleva\CSharp-Advanced\Iterators and Comparators - Exercise\04. Froggy\bin\Debug\netcoreapp3.1\Froggy.dll
+C:\Users\user\source\repos\dizheleva\CSharp-Advanced\Iterators and Comparators - Exercise\04. Froggy\bin\Debug\netcoreapp3.1\Froggy.pdb
+C:\Users\user\source\repos\dizheleva\CSharp-Advanced\Iterators and Comparators - Exercise\04. Froggy\obj\Debug\netcoreapp3.1\Froggy.csprojAssemblyReference.cache
+C:\Users\user\source\repos\dizheleva\CSharp-Advanced\Iterators and Comparators - Exercise\04. Froggy\obj\Debug\netcoreapp3.1\Froggy.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\dizheleva\CSharp-Advanced\Iterators and Comparators - Exercise\04. Froggy\obj\Debug\netcoreapp3.1\Froggy.AssemblyInfo.cs
+C:\Users\user\source\repos\dizheleva\CSharp-Advanced\Iterators and Comparators - Exercise\04. Froggy\obj\Debug\netcoreapp3.1\Froggy.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\dizheleva\CSharp-Advanced\Iterators and Comparators - Exercise\04. Froggy\obj\Debug\netcoreapp3.1\Froggy.dll
+C:\Users\user\source\repos\dizheleva\CSharp-Advanced\Iterators and Comparators - Exercise\04. Froggy\obj\Debug\netcoreapp3.1\Froggy.pdb
+C:\Users\user\source\repos\dizheleva\CSharp-Advanced\Iterators and Comparators - Exercise\04. Froggy\obj\Debug\netcoreapp3.1\Froggy.genruntimeconfig.cache

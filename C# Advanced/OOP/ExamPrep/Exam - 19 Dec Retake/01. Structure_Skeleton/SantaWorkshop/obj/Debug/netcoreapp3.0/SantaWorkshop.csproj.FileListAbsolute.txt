@@ -1,0 +1,13 @@
+C:\Users\user\source\repos\dizheleva\OOP\ExamPrep\Exam - 19 Dec Retake\01. Structure_Skeleton\SantaWorkshop\bin\Debug\netcoreapp3.0\SantaWorkshop.exe
+C:\Users\user\source\repos\dizheleva\OOP\ExamPrep\Exam - 19 Dec Retake\01. Structure_Skeleton\SantaWorkshop\bin\Debug\netcoreapp3.0\SantaWorkshop.deps.json
+C:\Users\user\source\repos\dizheleva\OOP\ExamPrep\Exam - 19 Dec Retake\01. Structure_Skeleton\SantaWorkshop\bin\Debug\netcoreapp3.0\SantaWorkshop.runtimeconfig.json
+C:\Users\user\source\repos\dizheleva\OOP\ExamPrep\Exam - 19 Dec Retake\01. Structure_Skeleton\SantaWorkshop\bin\Debug\netcoreapp3.0\SantaWorkshop.runtimeconfig.dev.json
+C:\Users\user\source\repos\dizheleva\OOP\ExamPrep\Exam - 19 Dec Retake\01. Structure_Skeleton\SantaWorkshop\bin\Debug\netcoreapp3.0\SantaWorkshop.dll
+C:\Users\user\source\repos\dizheleva\OOP\ExamPrep\Exam - 19 Dec Retake\01. Structure_Skeleton\SantaWorkshop\bin\Debug\netcoreapp3.0\SantaWorkshop.pdb
+C:\Users\user\source\repos\dizheleva\OOP\ExamPrep\Exam - 19 Dec Retake\01. Structure_Skeleton\SantaWorkshop\obj\Debug\netcoreapp3.0\SantaWorkshop.csprojAssemblyReference.cache
+C:\Users\user\source\repos\dizheleva\OOP\ExamPrep\Exam - 19 Dec Retake\01. Structure_Skeleton\SantaWorkshop\obj\Debug\netcoreapp3.0\SantaWorkshop.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\dizheleva\OOP\ExamPrep\Exam - 19 Dec Retake\01. Structure_Skeleton\SantaWorkshop\obj\Debug\netcoreapp3.0\SantaWorkshop.AssemblyInfo.cs
+C:\Users\user\source\repos\dizheleva\OOP\ExamPrep\Exam - 19 Dec Retake\01. Structure_Skeleton\SantaWorkshop\obj\Debug\netcoreapp3.0\SantaWorkshop.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\dizheleva\OOP\ExamPrep\Exam - 19 Dec Retake\01. Structure_Skeleton\SantaWorkshop\obj\Debug\netcoreapp3.0\SantaWorkshop.dll
+C:\Users\user\source\repos\dizheleva\OOP\ExamPrep\Exam - 19 Dec Retake\01. Structure_Skeleton\SantaWorkshop\obj\Debug\netcoreapp3.0\SantaWorkshop.pdb
+C:\Users\user\source\repos\dizheleva\OOP\ExamPrep\Exam - 19 Dec Retake\01. Structure_Skeleton\SantaWorkshop\obj\Debug\netcoreapp3.0\SantaWorkshop.genruntimeconfig.cache

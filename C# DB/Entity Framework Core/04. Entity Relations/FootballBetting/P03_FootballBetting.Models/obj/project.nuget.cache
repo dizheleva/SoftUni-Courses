@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "03KPPprEFgrRP4GI+45hrXGQGZoGOr3kq2BdbVq0iysocnLP0KLWo5HK16Ttdoc3SCgDEOCNZSLJTq+yArx/ag==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user\\source\\repos\\dizheleva\\C# DB\\Entity Framework Core\\04.Entity Relations\\FootballBetting\\P03_FootballBetting.Models\\P03_FootballBetting.Models.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

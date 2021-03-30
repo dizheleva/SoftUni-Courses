@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "lq5asE+Uf7G20U3HhA0/BQqLjjroXRVFoD4bphnWuxvNuenMp21Sfmu0L7/t88Kn8XhU8f1vhUQSkawBRTBhmw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user\\source\\repos\\dizheleva\\OOP\\ExamPrep\\Exam - 19 Dec Retake\\03. Unit Tests_Skeleton\\Presents\\Presents.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

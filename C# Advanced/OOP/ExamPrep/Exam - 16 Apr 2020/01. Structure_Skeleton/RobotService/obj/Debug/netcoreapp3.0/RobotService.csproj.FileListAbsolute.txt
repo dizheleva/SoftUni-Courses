@@ -1,0 +1,13 @@
+C:\Users\user\source\repos\dizheleva\OOP\ExamPrep\C# OOP Retake Exam - 16 Apr 2020\01. Structure_Skeleton\RobotService\bin\Debug\netcoreapp3.0\RobotService.exe
+C:\Users\user\source\repos\dizheleva\OOP\ExamPrep\C# OOP Retake Exam - 16 Apr 2020\01. Structure_Skeleton\RobotService\bin\Debug\netcoreapp3.0\RobotService.deps.json
+C:\Users\user\source\repos\dizheleva\OOP\ExamPrep\C# OOP Retake Exam - 16 Apr 2020\01. Structure_Skeleton\RobotService\bin\Debug\netcoreapp3.0\RobotService.runtimeconfig.json
+C:\Users\user\source\repos\dizheleva\OOP\ExamPrep\C# OOP Retake Exam - 16 Apr 2020\01. Structure_Skeleton\RobotService\bin\Debug\netcoreapp3.0\RobotService.runtimeconfig.dev.json
+C:\Users\user\source\repos\dizheleva\OOP\ExamPrep\C# OOP Retake Exam - 16 Apr 2020\01. Structure_Skeleton\RobotService\bin\Debug\netcoreapp3.0\RobotService.dll
+C:\Users\user\source\repos\dizheleva\OOP\ExamPrep\C# OOP Retake Exam - 16 Apr 2020\01. Structure_Skeleton\RobotService\bin\Debug\netcoreapp3.0\RobotService.pdb
+C:\Users\user\source\repos\dizheleva\OOP\ExamPrep\C# OOP Retake Exam - 16 Apr 2020\01. Structure_Skeleton\RobotService\obj\Debug\netcoreapp3.0\RobotService.csprojAssemblyReference.cache
+C:\Users\user\source\repos\dizheleva\OOP\ExamPrep\C# OOP Retake Exam - 16 Apr 2020\01. Structure_Skeleton\RobotService\obj\Debug\netcoreapp3.0\RobotService.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\dizheleva\OOP\ExamPrep\C# OOP Retake Exam - 16 Apr 2020\01. Structure_Skeleton\RobotService\obj\Debug\netcoreapp3.0\RobotService.AssemblyInfo.cs
+C:\Users\user\source\repos\dizheleva\OOP\ExamPrep\C# OOP Retake Exam - 16 Apr 2020\01. Structure_Skeleton\RobotService\obj\Debug\netcoreapp3.0\RobotService.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\dizheleva\OOP\ExamPrep\C# OOP Retake Exam - 16 Apr 2020\01. Structure_Skeleton\RobotService\obj\Debug\netcoreapp3.0\RobotService.dll
+C:\Users\user\source\repos\dizheleva\OOP\ExamPrep\C# OOP Retake Exam - 16 Apr 2020\01. Structure_Skeleton\RobotService\obj\Debug\netcoreapp3.0\RobotService.pdb
+C:\Users\user\source\repos\dizheleva\OOP\ExamPrep\C# OOP Retake Exam - 16 Apr 2020\01. Structure_Skeleton\RobotService\obj\Debug\netcoreapp3.0\RobotService.genruntimeconfig.cache

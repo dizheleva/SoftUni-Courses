@@ -1,0 +1,13 @@
+C:\Users\user\source\repos\10. Predicate Party!\bin\Debug\netcoreapp3.1\10. Predicate Party!.exe
+C:\Users\user\source\repos\10. Predicate Party!\bin\Debug\netcoreapp3.1\10. Predicate Party!.deps.json
+C:\Users\user\source\repos\10. Predicate Party!\bin\Debug\netcoreapp3.1\10. Predicate Party!.runtimeconfig.json
+C:\Users\user\source\repos\10. Predicate Party!\bin\Debug\netcoreapp3.1\10. Predicate Party!.runtimeconfig.dev.json
+C:\Users\user\source\repos\10. Predicate Party!\bin\Debug\netcoreapp3.1\10. Predicate Party!.dll
+C:\Users\user\source\repos\10. Predicate Party!\bin\Debug\netcoreapp3.1\10. Predicate Party!.pdb
+C:\Users\user\source\repos\10. Predicate Party!\obj\Debug\netcoreapp3.1\10. Predicate Party!.csprojAssemblyReference.cache
+C:\Users\user\source\repos\10. Predicate Party!\obj\Debug\netcoreapp3.1\10. Predicate Party!.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\10. Predicate Party!\obj\Debug\netcoreapp3.1\10. Predicate Party!.AssemblyInfo.cs
+C:\Users\user\source\repos\10. Predicate Party!\obj\Debug\netcoreapp3.1\10. Predicate Party!.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\10. Predicate Party!\obj\Debug\netcoreapp3.1\10. Predicate Party!.dll
+C:\Users\user\source\repos\10. Predicate Party!\obj\Debug\netcoreapp3.1\10. Predicate Party!.pdb
+C:\Users\user\source\repos\10. Predicate Party!\obj\Debug\netcoreapp3.1\10. Predicate Party!.genruntimeconfig.cache

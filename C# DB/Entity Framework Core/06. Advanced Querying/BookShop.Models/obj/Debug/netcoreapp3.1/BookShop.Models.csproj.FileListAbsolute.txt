@@ -1,0 +1,8 @@
+C:\Users\user\source\repos\dizheleva\C# DB\Entity Framework Core\06. Advanced Querying\BookShop.Models\bin\Debug\netcoreapp3.1\BookShop.Models.deps.json
+C:\Users\user\source\repos\dizheleva\C# DB\Entity Framework Core\06. Advanced Querying\BookShop.Models\bin\Debug\netcoreapp3.1\BookShop.Models.dll
+C:\Users\user\source\repos\dizheleva\C# DB\Entity Framework Core\06. Advanced Querying\BookShop.Models\bin\Debug\netcoreapp3.1\BookShop.Models.pdb
+C:\Users\user\source\repos\dizheleva\C# DB\Entity Framework Core\06. Advanced Querying\BookShop.Models\obj\Debug\netcoreapp3.1\BookShop.Models.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\dizheleva\C# DB\Entity Framework Core\06. Advanced Querying\BookShop.Models\obj\Debug\netcoreapp3.1\BookShop.Models.AssemblyInfo.cs
+C:\Users\user\source\repos\dizheleva\C# DB\Entity Framework Core\06. Advanced Querying\BookShop.Models\obj\Debug\netcoreapp3.1\BookShop.Models.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\dizheleva\C# DB\Entity Framework Core\06. Advanced Querying\BookShop.Models\obj\Debug\netcoreapp3.1\BookShop.Models.dll
+C:\Users\user\source\repos\dizheleva\C# DB\Entity Framework Core\06. Advanced Querying\BookShop.Models\obj\Debug\netcoreapp3.1\BookShop.Models.pdb
