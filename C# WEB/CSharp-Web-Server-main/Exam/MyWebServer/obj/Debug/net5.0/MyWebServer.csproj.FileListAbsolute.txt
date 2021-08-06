@@ -1,0 +1,12 @@
+C:\Users\user\source\repos\dizheleva\SoftUni\C# WEB\CSharp-Web-Server-main\Exam\MyWebServer\bin\Debug\net5.0\MyWebServer.deps.json
+C:\Users\user\source\repos\dizheleva\SoftUni\C# WEB\CSharp-Web-Server-main\Exam\MyWebServer\bin\Debug\net5.0\MyWebServer.dll
+C:\Users\user\source\repos\dizheleva\SoftUni\C# WEB\CSharp-Web-Server-main\Exam\MyWebServer\bin\Debug\net5.0\ref\MyWebServer.dll
+C:\Users\user\source\repos\dizheleva\SoftUni\C# WEB\CSharp-Web-Server-main\Exam\MyWebServer\bin\Debug\net5.0\MyWebServer.pdb
+C:\Users\user\source\repos\dizheleva\SoftUni\C# WEB\CSharp-Web-Server-main\Exam\MyWebServer\obj\Debug\net5.0\MyWebServer.csprojAssemblyReference.cache
+C:\Users\user\source\repos\dizheleva\SoftUni\C# WEB\CSharp-Web-Server-main\Exam\MyWebServer\obj\Debug\net5.0\MyWebServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\dizheleva\SoftUni\C# WEB\CSharp-Web-Server-main\Exam\MyWebServer\obj\Debug\net5.0\MyWebServer.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\dizheleva\SoftUni\C# WEB\CSharp-Web-Server-main\Exam\MyWebServer\obj\Debug\net5.0\MyWebServer.AssemblyInfo.cs
+C:\Users\user\source\repos\dizheleva\SoftUni\C# WEB\CSharp-Web-Server-main\Exam\MyWebServer\obj\Debug\net5.0\MyWebServer.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\dizheleva\SoftUni\C# WEB\CSharp-Web-Server-main\Exam\MyWebServer\obj\Debug\net5.0\MyWebServer.dll
+C:\Users\user\source\repos\dizheleva\SoftUni\C# WEB\CSharp-Web-Server-main\Exam\MyWebServer\obj\Debug\net5.0\ref\MyWebServer.dll
+C:\Users\user\source\repos\dizheleva\SoftUni\C# WEB\CSharp-Web-Server-main\Exam\MyWebServer\obj\Debug\net5.0\MyWebServer.pdb

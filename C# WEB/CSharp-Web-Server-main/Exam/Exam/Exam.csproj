@@ -1,0 +1,46 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+	<ItemGroup>
+		<Content Include="Views\**\*.*">
+			<CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+		</Content>
+		<Content Include="wwwroot\**\*.*">
+			<CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+		</Content>
+	</ItemGroup>
+
+	<ItemGroup>
+	  <Content Remove="Data\DataConstants.cs" />
+	  <Content Remove="Data\Models\Car.cs" />
+	  <Content Remove="Data\Models\User.cs" />
+	  <Content Remove="Services\IPasswordHasher.cs" />
+	  <Content Remove="Services\IUserService.cs" />
+	  <Content Remove="Services\IValidator.cs" />
+	  <Content Remove="Services\PasswordHasher.cs" />
+	  <Content Remove="Services\UserService.cs" />
+	  <Content Remove="Services\Validator.cs" />
+	</ItemGroup>
+
+	<ItemGroup>
+		<ProjectReference Include="..\MyWebServer\MyWebServer.csproj" />
+	</ItemGroup>
+
+	<ItemGroup>
+		<PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="5.0.7" />
+		<PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="5.0.7">
+			<PrivateAssets>all</PrivateAssets>
+			<IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+		</PackageReference>
+	</ItemGroup>
+
+	<ItemGroup>
+	  <Folder Include="Data\Migrations\" />
+	  <Folder Include="wwwroot\" />
+	</ItemGroup>
+
+</Project>

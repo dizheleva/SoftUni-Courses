@@ -1,0 +1,47 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.0</TargetFramework>
+    <UserSecretsId>aspnet-CookBookApp-537ED66F-49E5-4CAD-A492-006E7E62F5AC</UserSecretsId>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Data\Migrations\20190411132237_CreateCategoryIngredientAndRecipeTables.cs" />
+    <Compile Remove="Data\Migrations\20190411132237_CreateCategoryIngredientAndRecipeTables.Designer.cs" />
+    <Compile Remove="Data\Migrations\20190411132424_CreateCategoryIngredientAndRecipeTables.cs" />
+    <Compile Remove="Data\Migrations\20190411132424_CreateCategoryIngredientAndRecipeTables.Designer.cs" />
+    <Compile Remove="Data\Migrations\20190411143609_ChangeMealAndIngredientsCategoriesConventions.cs" />
+    <Compile Remove="Data\Migrations\20190411143609_ChangeMealAndIngredientsCategoriesConventions.Designer.cs" />
+    <Compile Remove="Data\Migrations\20190411143805_ChangeMealAndIngredientsCategoriesConventions.cs" />
+    <Compile Remove="Data\Migrations\20190411143805_ChangeMealAndIngredientsCategoriesConventions.Designer.cs" />
+    <Compile Remove="Data\Migrations\20190413130602_AddFilesTable.cs" />
+    <Compile Remove="Data\Migrations\20190413130602_AddFilesTable.Designer.cs" />
+    <Compile Remove="Data\Migrations\20190416200713_AddFavouriteRecipesTable.cs" />
+    <Compile Remove="Data\Migrations\20190416200713_AddFavouriteRecipesTable.Designer.cs" />
+  </ItemGroup>
+
+
+  <ItemGroup>
+    <PackageReference Include="Google.Apis.Tasks.v1" Version="1.39.0.1513" />
+    <PackageReference Include="iTextSharp" Version="5.5.13" />
+    <PackageReference Include="jquery.datatables" Version="1.10.15" />
+    <PackageReference Include="Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore" Version="3.0.0-preview3-19153-02" />
+    <PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="3.0.0-preview3-19153-02" />
+    <PackageReference Include="Microsoft.AspNetCore.Identity.UI" Version="3.0.0-preview3-19153-02" />
+    <PackageReference Include="Microsoft.AspNetCore.Mvc.NewtonsoftJson" Version="3.0.0-preview3-19153-02" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="3.0.0-preview3.19153.1" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="3.0.0-preview3.19153.1" />
+    <PackageReference Include="Microsoft.Extensions.Logging.Debug" Version="3.0.0-preview3.19153.1" />
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="3.0.0-preview5-19264-04" />
+    <PackageReference Include="SendGrid" Version="9.11.0" />
+    <PackageReference Include="toastr" Version="2.1.1" />
+  </ItemGroup>
+
+
+  <ItemGroup>
+    <Content Update="credentials.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+
+</Project>
