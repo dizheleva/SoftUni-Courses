@@ -1,0 +1,24 @@
+# Ignore C# and Visual Studio binary files and folders
+.vs
+bin
+obj
+
+# Ignor Node.js libraries
+node_modules
+
+# Ignore MS Office temp files
+~$*.*
+
+# Ignore debug.log
+debug.log
+
+# Ignore MacOS image cache
+.DS_Store
+
+09.Algorithms/
+12.Git-and-Version-Control/
+15.Flexbox/
+16.CSS-Grid/
+My-Practice/
+Exams/
+Exam/
