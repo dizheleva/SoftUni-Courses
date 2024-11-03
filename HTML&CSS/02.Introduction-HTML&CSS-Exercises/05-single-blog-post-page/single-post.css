@@ -1,0 +1,9 @@
+main, section, article {
+    margin: 10px;
+    padding: 10px;
+    border: solid 3px darkblue;
+}
+
+.author {
+    font-weight: bold;
+}

@@ -1,0 +1,30 @@
+header {
+    background-color: aquamarine;
+}
+
+.logo, h1 {
+    display: inline;
+    margin: 50px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    padding: 20px;
+}
+
+nav li {
+    display: inline;
+    padding: 20px;
+}
+
+nav li a {
+    text-decoration: none;
+}
+
+section, aside {
+    border: solid 3px blue;
+    margin: 15px;
+    padding: 10px;
+}
+
+.author {
+    font-weight: bold;
+}

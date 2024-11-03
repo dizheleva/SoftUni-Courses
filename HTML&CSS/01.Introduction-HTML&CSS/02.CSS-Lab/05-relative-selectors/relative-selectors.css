@@ -1,0 +1,33 @@
+section p {
+    color: darkolivegreen;
+}
+
+li {
+    list-style-type: none;
+}
+
+.items > li {
+    font-weight: 800;
+}
+
+article.highlighted + article {
+    background-color: palevioletred;
+}
+
+.sibling-heading ~ p {
+    color: blue;
+}
+
+.links + ul li a {
+    text-decoration: none;
+    color: darkblue;
+    font-weight: bold;
+}
+
+.items > li:nth-child(2) {
+    color: red;
+}
+
+.links + ul li:last-child a {
+    color: green;
+}

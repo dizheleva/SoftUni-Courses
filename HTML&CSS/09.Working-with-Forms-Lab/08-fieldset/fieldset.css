@@ -1,0 +1,58 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+pre code {
+    background-color: #eee;
+    border: 1px solid #ccc;
+    border-radius: 0.3em;
+    display: block;
+    padding: 2em 2em 2em 2em;
+    margin: 2em 0;
+    overflow: auto;
+}
+
+html {
+    font: 14px/1.5 'Lato', sans-serif;
+}
+
+body,
+input,
+textarea,
+select,
+option {
+    font: inherit;
+}
+
+body {
+    padding: 2em;
+}
+
+fieldset {
+    padding: 2em;
+    border: 2px solid #ccc;
+    max-width: 50ch;
+}
+
+fieldset legend {
+    padding: 0.1em;
+    font-weight: bold;
+}
+
+fieldset label {
+    font-weight: bold;
+}
+
+fieldset input {
+    display: block;
+    width: 100%;
+    padding: 0.5em 0.8em;
+    border: 2px solid #ccc;
+    border-radius: 0.3em;
+}
+
+.field {
+    padding-bottom: 1.5em;
+}

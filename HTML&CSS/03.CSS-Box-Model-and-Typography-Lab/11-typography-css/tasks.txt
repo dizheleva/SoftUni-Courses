@@ -1,0 +1,28 @@
+Add heading elements, from h1 to h6
+Add hr element
+Add 3 paragraphs
+Add hr element
+Add h2 element
+Add p element
+Create a nested unordered list like the one in the screenshot
+Add p element
+Create a simple ordered list
+Add p element
+Create a table like the one in the screenshot
+Add p element
+Create a blockquote element like the one in the screenshot
+Add 3 p elements
+
+3.Styling
+HTML element should have the following styles
+Font-size – 16px
+Line-height – 1.5
+Font-family – Helvetica, sans-serif
+Paragraphs, Ordered and Un-ordered lists should have padding-bottom – 1.5rem
+Ordered and Un-ordered lists should have padding-left – 1.5rem
+Headings should have the following styles
+Line-height – 1.2
+Margin-top – 1em
+Margin-bottom – 0.5em
+Font-family – Georgia
+Add styles for tables, blockquote and hr according to the screenshot

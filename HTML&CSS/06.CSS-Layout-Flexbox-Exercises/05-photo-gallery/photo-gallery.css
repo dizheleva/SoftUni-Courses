@@ -1,0 +1,53 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+a {
+    color: inherit;
+    text-decoration: none;
+}
+
+body {
+    background-color: #eee;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.main-content {
+    width: 90%;
+    margin: 30px auto;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 30px;
+}
+
+.card {
+    flex: 0 0 calc((100% / 3) - 30px);
+    padding: 15px;
+    background: #fff;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    border-radius: 3px;
+    border: 8px solid black;    
+}
+
+figure {    
+    height: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: flex-end;
+}
+
+img {
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    border-radius: 3px;
+    max-width: 100%;
+    height: auto;
+}
+
+figcaption {    
+    padding-top: 20px;
+    font-style: italic;
+    color: #bebebe;
+    font-weight: bolder;
+}

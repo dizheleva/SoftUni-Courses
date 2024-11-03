@@ -1,0 +1,28 @@
+p.highlight {
+    color: skyblue;
+    font-size: large;
+}
+
+div#special {
+    background-color: orange;
+    padding: 0px;
+}
+
+a[href="https://softuni.bg"] {
+    color: orange;
+    text-decoration-style: double;
+}
+
+.blue, .bolder {
+    color: blue;
+    font-weight: bolder;
+}
+
+ul > li:first-child {
+    color: cyan;
+}
+
+ul > li:last-child {
+    color: red;
+    font-style: italic;
+}

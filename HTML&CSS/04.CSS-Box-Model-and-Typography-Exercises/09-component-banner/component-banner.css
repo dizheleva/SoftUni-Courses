@@ -1,0 +1,26 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    font-family: Lato;
+}
+
+.banner {
+    position: relative;
+    min-height: 340px;
+    background-image: url("images/image1.jpg");
+    background-position: center;
+    background-size: cover;
+    color: white;
+}
+
+.text {
+    position: absolute;
+    top: 40%;
+    width: 100%;
+    text-align: center;
+}
+
+h1, p {
+    margin: 0px;
+    padding: 5px;
+}

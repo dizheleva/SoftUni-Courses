@@ -1,0 +1,16 @@
+Solid Border
+
+Dashed Border
+
+Dotted Border
+
+Mixed Border: Top and Bottom Dashed, Left and Right Solid
+
+1.Solid Border – 4px solid black
+2.Dashed Border – 3px dashed #333
+3.Dotted Border – 2px dotted #666
+4.Mixed Border
+    1.Top – 3px dashed #333
+    2.Bottom – 3px dashed #333
+    3.Left – 4px solid #000;
+    4.Right – 4px solid #000;

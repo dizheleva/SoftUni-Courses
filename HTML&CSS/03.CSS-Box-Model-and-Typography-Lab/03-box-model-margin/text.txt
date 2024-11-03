@@ -1,0 +1,16 @@
+Uniform Margin: 20px
+
+Non-Uniform Margin: 10px 30px 20px 40px (Top Right Bottom Left)
+
+Negative Margin: -20px
+
+1.First element – Uniform margin
+margin: 40px;
+
+2.Second element – Non-Uniform Padding
+margin: 10px 30px 20px 40px;
+order is – top, right, bottom, left
+
+3.Third element – Negative margin
+margin: -20px;
+In this case the only effect is that the element will be moved up 20px as it is impossible to move it negatively 20px in all directions

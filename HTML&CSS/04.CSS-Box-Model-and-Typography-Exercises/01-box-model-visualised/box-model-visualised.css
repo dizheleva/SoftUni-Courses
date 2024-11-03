@@ -1,0 +1,40 @@
+.model {
+    margin: 50px auto;  
+    padding: 0;
+    width: 50vw;
+}
+
+div {
+    margin: 0;
+    position: relative;
+    border: 1px dashed black;
+    padding: 30px;
+}
+
+p {
+    margin: 0;
+    padding: 0;
+}
+
+.margin {    
+    background-color: #FF966F;
+}
+
+.border {
+    background-color: #FFE8C6;
+}
+
+.padding {
+    background-color: #85EB85;
+}
+
+.content {    
+    background-color: #A3D2E2;
+    text-align: center;
+}
+
+.title {
+    position: absolute;
+    top: 0;
+    left: 10px;
+}

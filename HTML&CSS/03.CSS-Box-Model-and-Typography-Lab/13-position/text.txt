@@ -1,0 +1,49 @@
+Position Static
+
+1
+2
+3
+
+Position Relative
+
+1
+2
+3
+
+Position Relative + Absolute
+
+1
+2
+3
+
+
+Create 3 <section> elements with <h2> elements before each for the following cases
+1.Position Static
+2.Position Relative
+3.Position Relative + Absolute
+
+Add 3 <div> elements with class "item" inside of each section
+
+4.CSS Styling:
+All section elements should have the following styles:
+1.Border – 2px solid #000
+2.Padding – 2em
+3.Position - Relative
+
+All div elements with class “item” should have the following styles:
+1.Border – 1px solid #333
+2.Padding – 0.5em
+3.Width – 5em
+4.Height – 5em
+
+For the second .item element of the Position relative section – add the following styles
+1.Position – relative
+2.Left – 5em
+3.Top – 2em
+4.Background – lightgreen
+
+For the second .item element of the Position relative + Absolute section – add the following styles
+1.Position – absolute
+2.Left – 4em
+3.Top – 4em
+4.Background – lightgreen

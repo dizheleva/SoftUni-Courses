@@ -1,0 +1,44 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+pre code {
+    background-color: #eee;
+    border: 1px solid #ccc;
+    border-radius: 0.3em;
+    display: block;
+    padding: 2em 2em 2em 2em;
+    margin: 2em 0;
+    overflow: auto;
+}
+
+html {
+    font: 14px/1.5 'Lato', sans-serif;
+}
+
+body,
+input,
+textarea,
+select,
+option {
+    font: inherit;
+}
+
+body {
+    padding: 2em;
+}
+
+
+select {
+    display: inline-block;
+    padding: 0.5em 0.8em;
+    border: 2px solid #ccc;
+    border-radius: 0.3em;
+    background-color: #eee;
+}
+
+select:focus {
+    border-color: #090;
+}
