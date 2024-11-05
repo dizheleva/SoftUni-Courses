@@ -1,4 +1,4 @@
-function decrypt(wordList, text) {
+function solve(wordList, text) {
     let words = wordList
         .split(', ')
         .sort((a, b) => b.length - a.length);
@@ -13,5 +13,5 @@ function decrypt(wordList, text) {
     console.log(result);
 }
 
-decrypt('great', 'softuni is ***** place for learning new programming languages');
-decrypt('great, learning', 'softuni is ***** place for ******** new programming languages');
+solve('great', 'softuni is ***** place for learning new programming languages');
+solve('great, learning', 'softuni is ***** place for ******** new programming languages');
