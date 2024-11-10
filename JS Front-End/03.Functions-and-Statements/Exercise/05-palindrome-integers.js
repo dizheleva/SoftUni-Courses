@@ -1,4 +1,16 @@
 function checkForPalindrome(arr) {
+    function reverseNumber(n) {
+        let reversed = '';
+    
+        while (n >= 1) {
+            reversed += (n % 10);
+            n = Math.floor(n / 10);
+        }
+    
+        reversed = Number(reversed);
+        return reversed;
+    }
+    
     let resultArr = [];
 
     for (let i = 0; i < arr.length; i++) {
@@ -11,18 +23,6 @@ function checkForPalindrome(arr) {
     for (const element of resultArr) {
         console.log(element);
     }
-}
-
-function reverseNumber(n) {
-    let reversed = '';
-
-    while (n >= 1) {
-        reversed += (n % 10);
-        n = Math.floor(n / 10);
-    }
-
-    reversed = Number(reversed);
-    return reversed;
 }
 
 checkForPalindrome([123, 323, 421, 121]);

@@ -1,7 +1,7 @@
-sum = ((a, b) => a + b);
-subtract = ((a, b) => a - b);
-
 function getResult(a, b, c) {
+    sum = ((a, b) => a + b);
+    subtract = ((a, b) => a - b);
+
     let result = subtract(sum(a, b), c);
     console.log(result);
 }
