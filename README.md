@@ -24,7 +24,7 @@
 | <a href="https://softuni.bg/trainings/3011/js-advanced-september-2020"> JS Advanced - September 2020 </a>                       | <a href="https://softuni.bg/certificates/details/90454/0da271ab"> Link </a>  |
 | <a href="https://softuni.bg/trainings/3348/js-applications-june-2021"> JS Applications - June 2021 </a>                         | <a href="https://softuni.bg/certificates/details/112449/3ea64181"> Link </a> |
 | <a href="https://softuni.bg/trainings/4715/html-css-september-2024"> HTML & CSS - September 2024 </a>                           | <a href="https://softuni.bg/certificates/details/228560/91d0c27b"> Link </a> |
-| <a href="https://softuni.bg/trainings/4716/js-front-end-october-2024"> JS Front-End - October 2024 </a>                         |  |
+| <a href="https://softuni.bg/trainings/4716/js-front-end-october-2024"> JS Front-End - October 2024 </a>                         | <a href="https://softuni.bg/certificates/details/233135/85b8f480"> Link </a> |
 
 </td>
 </tr>
