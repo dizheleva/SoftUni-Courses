@@ -79,7 +79,7 @@ function createElement(tag, properties, container = null) {
 
 function init() {
 
-    const baseUrl = '-http://localhost:3030/jsonstore/matches/';
+    const baseUrl = 'http://localhost:3030/jsonstore/matches/';
 
     const inputs = Array.from(document.querySelectorAll('#host, #score, #guest'));
     const listEl = document.querySelector('#list');
