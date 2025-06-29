@@ -8,6 +8,8 @@
     {
         public DbSet<Movie> Movies { get; set; }
 
+        public DbSet<UserMovie> UserMovies { get; set; }
+
         public ApplicationDbContext(DbContextOptions<ApplicationDbContext> options)
             : base(options)
         {
