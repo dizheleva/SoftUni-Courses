@@ -6,9 +6,9 @@
     using Microsoft.EntityFrameworkCore;
     public class ApplicationDbContext : IdentityDbContext
     {
-        public DbSet<Movie> Movies { get; set; }
+        public virtual DbSet<Movie> Movies { get; set; }
 
-        public DbSet<UserMovie> UserMovies { get; set; }
+        public virtual DbSet<UserMovie> UserMovies { get; set; }
 
         public ApplicationDbContext(DbContextOptions<ApplicationDbContext> options)
             : base(options)

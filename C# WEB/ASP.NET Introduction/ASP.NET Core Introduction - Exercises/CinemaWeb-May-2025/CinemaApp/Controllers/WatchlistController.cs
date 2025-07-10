@@ -1,38 +1,71 @@
 ﻿namespace CinemaApp.Web.Controllers
 {
+    using CinemaApp.Services.Core.Interfaces;
     using CinemaApp.Web.ViewModels.Watchlist;
     using Microsoft.AspNetCore.Mvc;
 
-    public class WatchlistController : Controller
+    public class WatchlistController : BaseController
     {
-        [HttpGet]
-        public IActionResult Index()
+        private readonly IWatchlistService _watchlistService;
+
+        public WatchlistController(IWatchlistService watchlistService)
         {
-            return View(new List<WatchlistViewModel>());
+            _watchlistService = watchlistService;
+        }
+
+        [HttpGet]
+        public async Task<IActionResult> Index()
+        {
+            if (!IsUserAuthenticated())
+            {
+                return RedirectToAction("Index", "Home");
+            }
+
+            var userId = GetUserId();
+            var model = await _watchlistService.GetUserWatchlistAsync(userId);
+
+            return View(model);
         }
 
         //Add a movie to the watchlist
         [HttpPost]
-        public IActionResult Add(WatchlistViewModel model)
+        public async Task<IActionResult> Add(string movieId)
         {
-            if (ModelState.IsValid)
-            {
-                // Logic to add the movie to the watchlist
-                // This could involve saving to a database or session
-                return RedirectToAction("Index");
+            if (!IsUserAuthenticated())
+            {                
+                return RedirectToAction("Index", "Home");
             }
-            return View("Index", model);
+
+            var userId = GetUserId();
+
+            bool isInWatchlist = await _watchlistService.IsMovieInWatchlistAsync(userId, Guid.Parse(movieId));
+
+            if (!isInWatchlist)
+            {
+                await _watchlistService.AddToWatchlistAsync(userId, movieId);
+            }
+
+            return RedirectToAction(nameof(Index));
         }
 
         //Remove a movie from the watchlist
         [HttpPost]
         public IActionResult Remove(string movieId)
         {
-            if (!string.IsNullOrEmpty(movieId))
+            if (!IsUserAuthenticated())
             {
-                // Logic to remove the movie from the watchlist
-                // This could involve removing from a database or session
+                return RedirectToAction(nameof(Index), "Home");
             }
+
+            var userId = GetUserId();
+            var movieGuid = Guid.Parse(movieId);
+            bool isInWatchlist = _watchlistService.IsMovieInWatchlistAsync(userId, movieGuid).Result;
+
+            if (isInWatchlist)
+            {
+                _watchlistService.RemoveFromWatchlistAsync(userId, movieId).Wait();
+            }
+
             return RedirectToAction(nameof(Index));
         }
     }

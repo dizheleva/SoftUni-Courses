@@ -31,6 +31,8 @@ namespace CinemaApp.Web
             
             builder.Services.AddScoped<IMovieService, MovieService>();
 
+            builder.Services.AddScoped<IWatchlistService, WatchlistService>();
+
             builder.Services.AddControllersWithViews();
 
             var app = builder.Build();
