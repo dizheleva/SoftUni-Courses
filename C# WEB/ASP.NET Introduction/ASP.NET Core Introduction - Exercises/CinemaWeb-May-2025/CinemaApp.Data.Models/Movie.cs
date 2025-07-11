@@ -44,5 +44,11 @@
 
         [Comment("Indicates if the movie is deleted")]
         public bool IsDeleted { get; set; } = false;
+
+        [Comment("Collection of cinemas showing this movie")]
+        public virtual ICollection<CinemaMovie> CinemaMovies { get; set; } = new HashSet<CinemaMovie>();
+
+        [Comment("Collection of tickets associated with this movie")]
+        public virtual ICollection<Ticket> Tickets { get; set; } = new HashSet<Ticket>();
     }
 }

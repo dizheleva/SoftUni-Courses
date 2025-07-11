@@ -7,8 +7,11 @@
     public class ApplicationDbContext : IdentityDbContext
     {
         public virtual DbSet<Movie> Movies { get; set; }
-
         public virtual DbSet<UserMovie> UserMovies { get; set; }
+        public virtual DbSet<Cinema> Cinemas { get; set; }
+        public virtual DbSet<CinemaMovie> CinemaMovies { get; set; }
+        public virtual DbSet<Ticket> Tickets { get; set; }
+        public virtual DbSet<UserTicket> UserTickets { get; set; }
 
         public ApplicationDbContext(DbContextOptions<ApplicationDbContext> options)
             : base(options)

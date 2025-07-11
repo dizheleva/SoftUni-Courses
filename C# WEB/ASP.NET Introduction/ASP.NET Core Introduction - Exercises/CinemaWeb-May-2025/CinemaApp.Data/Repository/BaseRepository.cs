@@ -22,32 +22,28 @@
 
         public TType GetById(TId id)
         {
-            TType entity = this.dbSet
-                .Find(id);
+            TType entity = this.dbSet.Find(id);
 
             return entity;
         }
 
         public async Task<TType> GetByIdAsync(TId id)
         {
-            TType entity = await this.dbSet
-                .FindAsync(id);
+            TType entity = await this.dbSet.FindAsync(id);
 
             return entity;
         }
 
         public TType FirstOrDefault(Func<TType, bool> predicate)
         {
-            TType entity = this.dbSet
-                .FirstOrDefault(predicate);
+            TType entity = this.dbSet.FirstOrDefault(predicate);
 
             return entity;
         }
 
         public async Task<TType> FirstOrDefaultAsync(Expression<Func<TType, bool>> predicate)
         {
-            TType entity = await this.dbSet
-                .FirstOrDefaultAsync(predicate);
+            TType entity = await this.dbSet.FirstOrDefaultAsync(predicate);
 
             return entity;
         }
@@ -141,8 +137,7 @@
 
         public async Task<TType> FindByConditionsAsync(Expression<Func<TType, bool>> predicate)
         {
-            TType entity = await this.dbSet
-                .FirstOrDefaultAsync(predicate);
+            TType entity = await this.dbSet.FirstOrDefaultAsync(predicate);
 
             return entity;
         }

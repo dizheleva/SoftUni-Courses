@@ -7,7 +7,7 @@
     using CinemaApp.Services.Core.Interfaces;
     using CinemaApp.Web.ViewModels.Watchlist;
     using Microsoft.EntityFrameworkCore;
-    using static CinemaApp.Data.Common.EntityConstants;
+    using static CinemaApp.Data.Common.EntityConstants.MovieConstants;
 
     public class WatchlistService : IWatchlistService
     {
@@ -56,7 +56,7 @@
                     Title = um.Movie.Title,
                     Genre = um.Movie.Genre,
                     ImageUrl = um.Movie.ImageUrl,
-                    ReleaseDate = um.Movie.ReleaseDate.ToString(ReleaseDateFormat)
+                    ReleaseDate = um.Movie.ReleaseDate.ToString(DateFormat)
                 }).ToListAsync();
         }
     }

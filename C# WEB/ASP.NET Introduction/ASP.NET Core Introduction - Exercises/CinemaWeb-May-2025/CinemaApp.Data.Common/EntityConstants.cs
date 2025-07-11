@@ -55,6 +55,23 @@
 
             public const string ImageUrlMaxLengthMessage = "Image URL cannot exceed 2048 characters.";
         }
+
+        public class CinemaConstants
+        {
+            // Name stores text between 2 and 80 characters
+            public const int NameMinLength = 2;
+            public const int NameMaxLength = 80;
+            // Location stores text between 2 and 50 characters
+            public const int LocationMinLength = 2;
+            public const int LocationMaxLength = 50;
+            // Error messages
+            public const string NameRequiredMessage = "Name is required.";
+            public const string NameMinLengthMessage = "Name must be at least 2 characters.";
+            public const string NameMaxLengthMessage = "Name cannot exceed 80 characters.";
+            public const string LocationRequiredMessage = "Location is required.";
+            public const string LocationMinLengthMessage = "Location must be at least 2 characters.";
+            public const string LocationMaxLengthMessage = "Location cannot exceed 50 characters.";
+        }
     }
 }
 
