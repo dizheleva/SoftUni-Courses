@@ -23,11 +23,16 @@
             builder.Property(c => c.IsDeleted)
                 .HasDefaultValue(false);
 
-            builder.HasQueryFilter(c => !c.IsDeleted);
+            builder.HasOne(c => c.Manager)
+                .WithMany(m => m.ManagedCinemas)
+                .HasForeignKey(c => c.ManagerId)
+                .OnDelete(DeleteBehavior.SetNull);
 
             // Define a composite index on Name and Location to ensure unique combinations only
             builder.HasIndex(c => new { c.Name, c.Location })
                 .IsUnique(true);
+
+            builder.HasQueryFilter(c => !c.IsDeleted);
         }
     }
 }

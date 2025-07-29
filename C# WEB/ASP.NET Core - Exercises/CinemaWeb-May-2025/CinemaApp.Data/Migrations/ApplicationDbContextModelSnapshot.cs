@@ -41,6 +41,10 @@ namespace CinemaApp.Data.Migrations
                         .HasColumnType("nvarchar(50)")
                         .HasComment("Cinema name");
 
+                    b.Property<Guid?>("ManagerId")
+                        .HasColumnType("uniqueidentifier")
+                        .HasComment("Foreign key to the manager of the cinema");
+
                     b.Property<string>("Name")
                         .IsRequired()
                         .HasMaxLength(80)
@@ -48,6 +52,8 @@ namespace CinemaApp.Data.Migrations
                         .HasComment("Cinema name");
 
                     b.HasKey("Id");
+
+                    b.HasIndex("ManagerId");
 
                     b.HasIndex("Name", "Location")
                         .IsUnique();
@@ -102,6 +108,34 @@ namespace CinemaApp.Data.Migrations
                     b.ToTable("CinemaMovies", t =>
                         {
                             t.HasComment("Movie projection in a cinema in the system");
+                        });
+                });
+
+            modelBuilder.Entity("CinemaApp.Data.Models.Manager", b =>
+                {
+                    b.Property<Guid>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("uniqueidentifier")
+                        .HasComment("Manager identifier");
+
+                    b.Property<bool>("IsDeleted")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("bit")
+                        .HasDefaultValue(false);
+
+                    b.Property<string>("UserId")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(450)")
+                        .HasComment("Manager's user entity");
+
+                    b.HasKey("Id");
+
+                    b.HasIndex("UserId")
+                        .IsUnique();
+
+                    b.ToTable("Managers", t =>
+                        {
+                            t.HasComment("Manager in the system");
                         });
                 });
 
@@ -570,6 +604,16 @@ namespace CinemaApp.Data.Migrations
                     b.ToTable("AspNetUserTokens", (string)null);
                 });
 
+            modelBuilder.Entity("CinemaApp.Data.Models.Cinema", b =>
+                {
+                    b.HasOne("CinemaApp.Data.Models.Manager", "Manager")
+                        .WithMany("ManagedCinemas")
+                        .HasForeignKey("ManagerId")
+                        .OnDelete(DeleteBehavior.SetNull);
+
+                    b.Navigation("Manager");
+                });
+
             modelBuilder.Entity("CinemaApp.Data.Models.CinemaMovie", b =>
                 {
                     b.HasOne("CinemaApp.Data.Models.Cinema", "Cinema")
@@ -589,6 +633,17 @@ namespace CinemaApp.Data.Migrations
                     b.Navigation("Movie");
                 });
 
+            modelBuilder.Entity("CinemaApp.Data.Models.Manager", b =>
+                {
+                    b.HasOne("Microsoft.AspNetCore.Identity.IdentityUser", "User")
+                        .WithOne()
+                        .HasForeignKey("CinemaApp.Data.Models.Manager", "UserId")
+                        .OnDelete(DeleteBehavior.Restrict)
+                        .IsRequired();
+
+                    b.Navigation("User");
+                });
+
             modelBuilder.Entity("CinemaApp.Data.Models.Ticket", b =>
                 {
                     b.HasOne("CinemaApp.Data.Models.CinemaMovie", "CinemaMovie")
@@ -600,7 +655,7 @@ namespace CinemaApp.Data.Migrations
                     b.HasOne("Microsoft.AspNetCore.Identity.IdentityUser", "User")
                         .WithMany()
                         .HasForeignKey("UserId")
-                        .OnDelete(DeleteBehavior.Cascade)
+                        .OnDelete(DeleteBehavior.NoAction)
                         .IsRequired();
 
                     b.Navigation("CinemaMovie");
@@ -686,6 +741,11 @@ namespace CinemaApp.Data.Migrations
             modelBuilder.Entity("CinemaApp.Data.Models.CinemaMovie", b =>
                 {
                     b.Navigation("Tickets");
+                });
+
+            modelBuilder.Entity("CinemaApp.Data.Models.Manager", b =>
+                {
+                    b.Navigation("ManagedCinemas");
                 });
 
             modelBuilder.Entity("CinemaApp.Data.Models.Movie", b =>

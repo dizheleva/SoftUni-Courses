@@ -48,7 +48,7 @@
         [Comment("Collection of movie projections in a cinema")]
         public virtual ICollection<CinemaMovie> CinemaMovies { get; set; } = new HashSet<CinemaMovie>();
 
-        [Comment("Collection of movies in a watchlist")]
+        [Comment("Collection of movies in the watchlist")]
         public virtual ICollection<UserMovie> UserMovies { get; set; } = new HashSet<UserMovie>();
     }
 }

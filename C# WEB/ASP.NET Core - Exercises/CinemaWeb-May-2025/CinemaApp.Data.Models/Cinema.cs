@@ -22,8 +22,14 @@
 
         [Comment("Indicates if the cinema is deleted")]
         public bool IsDeleted { get; set; }
-                       
+
         // Navigation properties
+
+        [Comment("Foreign key to the manager of the cinema")]
+        public Guid? ManagerId { get; set; }
+        [Comment("Manager of the cinema")]
+        public virtual Manager? Manager { get; set; }
+
         public virtual ICollection<CinemaMovie> CinemaMovies { get; set; } = new HashSet<CinemaMovie>();
 
     }
