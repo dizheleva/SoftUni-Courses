@@ -5,7 +5,7 @@ namespace CinemaApp.Data.Migrations
     using Microsoft.EntityFrameworkCore.Migrations;
 
     /// <inheritdoc />
-    public partial class UpdatedCofigurations : Migration
+    public partial class UpdateTicketConfiguration : Migration
     {
         /// <inheritdoc />
         protected override void Up(MigrationBuilder migrationBuilder)
@@ -19,8 +19,7 @@ namespace CinemaApp.Data.Migrations
                 table: "Tickets",
                 column: "UserId",
                 principalTable: "AspNetUsers",
-                principalColumn: "Id",
-                onDelete: ReferentialAction.NoAction);
+                principalColumn: "Id");
         }
 
         /// <inheritdoc />

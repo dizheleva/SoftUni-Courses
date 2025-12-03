@@ -1,12 +1,9 @@
 ﻿namespace CinemaApp.Services.Core.Services
 {
-    using CinemaApp.Data.Repository;
     using CinemaApp.Data.Repository.Interfaces;
     using CinemaApp.Services.Core.Interfaces;
     using CinemaApp.Web.ViewModels.Cinema;
-    using CinemaApp.Web.ViewModels.Movie;
     using Microsoft.EntityFrameworkCore;
-    using Microsoft.VisualBasic;
 
     public class CinemaService : ICinemaService
     {

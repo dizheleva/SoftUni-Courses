@@ -20,5 +20,11 @@
         {
             return View(await _cinemaService.GetAllCinemasAsync());
         }
+
+        [HttpGet]
+        public async Task<IActionResult> Program(string? id)
+        {
+            return View();
+        }
     }
 }

@@ -466,6 +466,11 @@ namespace CinemaApp.Data.Migrations
                         .IsConcurrencyToken()
                         .HasColumnType("nvarchar(max)");
 
+                    b.Property<string>("Discriminator")
+                        .IsRequired()
+                        .HasMaxLength(13)
+                        .HasColumnType("nvarchar(13)");
+
                     b.Property<string>("Email")
                         .HasMaxLength(256)
                         .HasColumnType("nvarchar(256)");
@@ -517,6 +522,10 @@ namespace CinemaApp.Data.Migrations
                         .HasFilter("[NormalizedUserName] IS NOT NULL");
 
                     b.ToTable("AspNetUsers", (string)null);
+
+                    b.HasDiscriminator().HasValue("IdentityUser");
+
+                    b.UseTphMappingStrategy();
                 });
 
             modelBuilder.Entity("Microsoft.AspNetCore.Identity.IdentityUserClaim<string>", b =>
@@ -604,6 +613,13 @@ namespace CinemaApp.Data.Migrations
                     b.ToTable("AspNetUserTokens", (string)null);
                 });
 
+            modelBuilder.Entity("CinemaApp.Data.Models.User", b =>
+                {
+                    b.HasBaseType("Microsoft.AspNetCore.Identity.IdentityUser");
+
+                    b.HasDiscriminator().HasValue("User");
+                });
+
             modelBuilder.Entity("CinemaApp.Data.Models.Cinema", b =>
                 {
                     b.HasOne("CinemaApp.Data.Models.Manager", "Manager")
@@ -635,8 +651,8 @@ namespace CinemaApp.Data.Migrations
 
             modelBuilder.Entity("CinemaApp.Data.Models.Manager", b =>
                 {
-                    b.HasOne("Microsoft.AspNetCore.Identity.IdentityUser", "User")
-                        .WithOne()
+                    b.HasOne("CinemaApp.Data.Models.User", "User")
+                        .WithOne("Manager")
                         .HasForeignKey("CinemaApp.Data.Models.Manager", "UserId")
                         .OnDelete(DeleteBehavior.Restrict)
                         .IsRequired();
@@ -652,8 +668,8 @@ namespace CinemaApp.Data.Migrations
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
 
-                    b.HasOne("Microsoft.AspNetCore.Identity.IdentityUser", "User")
-                        .WithMany()
+                    b.HasOne("CinemaApp.Data.Models.User", "User")
+                        .WithMany("Tickets")
                         .HasForeignKey("UserId")
                         .OnDelete(DeleteBehavior.NoAction)
                         .IsRequired();
@@ -671,8 +687,8 @@ namespace CinemaApp.Data.Migrations
                         .OnDelete(DeleteBehavior.Restrict)
                         .IsRequired();
 
-                    b.HasOne("Microsoft.AspNetCore.Identity.IdentityUser", "User")
-                        .WithMany()
+                    b.HasOne("CinemaApp.Data.Models.User", "User")
+                        .WithMany("Watchlist")
                         .HasForeignKey("UserId")
                         .OnDelete(DeleteBehavior.Restrict)
                         .IsRequired();
@@ -753,6 +769,15 @@ namespace CinemaApp.Data.Migrations
                     b.Navigation("CinemaMovies");
 
                     b.Navigation("UserMovies");
+                });
+
+            modelBuilder.Entity("CinemaApp.Data.Models.User", b =>
+                {
+                    b.Navigation("Manager");
+
+                    b.Navigation("Tickets");
+
+                    b.Navigation("Watchlist");
                 });
 #pragma warning restore 612, 618
         }

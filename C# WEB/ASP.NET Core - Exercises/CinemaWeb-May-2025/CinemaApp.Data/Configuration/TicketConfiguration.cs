@@ -19,12 +19,13 @@
                 .IsRequired(true);
 
             builder.HasOne(t => t.CinemaMovie)
-                .WithMany(m => m.Tickets)
+                .WithMany(cm => cm.Tickets)
                 .HasForeignKey(t => t.CinemaMovieId);
 
             builder.HasOne(t => t.User)
-                .WithMany()
-                .HasForeignKey(t => t.UserId);
+                .WithMany(u => u.Tickets)
+                .HasForeignKey(t => t.UserId)
+                .OnDelete(DeleteBehavior.NoAction);
 
             builder
                 .HasIndex(t => new { t.CinemaMovieId, t.UserId })

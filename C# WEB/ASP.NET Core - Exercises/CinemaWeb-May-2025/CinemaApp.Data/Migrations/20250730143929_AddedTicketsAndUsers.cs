@@ -6,7 +6,7 @@ namespace CinemaApp.Data.Migrations
     using Microsoft.EntityFrameworkCore.Migrations;
 
     /// <inheritdoc />
-    public partial class UpdateMovieTable : Migration
+    public partial class AddedTicketsAndUsers : Migration
     {
         /// <inheritdoc />
         protected override void Up(MigrationBuilder migrationBuilder)
@@ -17,6 +17,14 @@ namespace CinemaApp.Data.Migrations
                 type: "uniqueidentifier",
                 nullable: true,
                 comment: "Foreign key to the manager of the cinema");
+
+            migrationBuilder.AddColumn<string>(
+                name: "Discriminator",
+                table: "AspNetUsers",
+                type: "nvarchar(13)",
+                maxLength: 13,
+                nullable: false,
+                defaultValue: "");
 
             migrationBuilder.CreateTable(
                 name: "Managers",
@@ -75,6 +83,10 @@ namespace CinemaApp.Data.Migrations
             migrationBuilder.DropColumn(
                 name: "ManagerId",
                 table: "Cinemas");
+
+            migrationBuilder.DropColumn(
+                name: "Discriminator",
+                table: "AspNetUsers");
         }
     }
 }
